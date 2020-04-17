@@ -13,5 +13,3 @@ server.start({
     origin: 'http://localhost:3000', // this is the frontend URL
   },
 }, deets => console.log(`Server running 🔥 on port http://localhsot:${deets.port}`));
-
-// LEFT OFF IN VIDEO 15 - https://coursehunter.net/course/full-stack-prodvinutyy-react-graphql
