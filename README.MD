@@ -6,3 +6,5 @@
 5. Navigate to the prisma folder and run `prisma deploy`
 6. Launch Docker and in the root folder run `docker-compose up`
 7. GraphQL backend will be running in `http:localhost:4000`
+
+![](./static/infra.png)
